@@ -1,5 +1,5 @@
 {
-    "name": "snortlin/google-pubsub-messenger",
+    "name": "rwatt-futurenet/google-pubsub-messenger",
     "description": "Symfony Google Pub/Sub extension Messenger Bridge",
     "type": "symfony-messenger-bridge",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Petr Leixner",
             "email": "snortlin@volny.cz"
+        },
+        {
+            "name": "Richard Watt",
+            "email": "richard.watt@futurenet.com"
         }
     ],
     "require": {
